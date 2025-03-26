@@ -2,3 +2,7 @@ WRITTEN BY: Alex L. AlexMalos AntonioHus CostinJ RobertL PaulH
 
 The dark storm clouds roll across the sky as you start your journey across the Baklands. This stage of your trip will be the most testing yet. In front of you there is a road that forks in too, to the left there is a castle that appears abandoned, to the right there is an university.
 for left go to 2 for right go to 3
+
+GO TO 3
+While you're wondering down the road, it started raining. You feel heavier each step you take as the rain pours into your clothes and start to wonder why you took on this road. You start running as fast as you can until you see a bus stop with a light, but as you get closer and closer you start to feel something in your gut. You see someone in the station, do you stop in the station to shield from the rain or do you continue running?
+for stopping go to 10 for continue running go to 4
