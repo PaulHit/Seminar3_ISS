@@ -1,6 +1,7 @@
 WRITTEN BY: Alex L. AlexMalos AntonioHus CostinJ RobertL PaulH
 
-The dark storm clouds roll across the sky as you start your journey across the Baklands. This stage of your trip will be the most testing yet. In front of you there is a road that forks in too, to the left there is a castle that appears abandoned, to the right there is an university.
+The dark storm clouds roll across the sky as you start your journey across the Baklands. This stage of your trip will be the most testing yet. In front of you there is a road that forks in too, to the left there is a castle that appears abandoned, to the right there is an university.e dark storm clouds roll across the sky as you start your journey across the Baklands. This stage of your trip will be the most testing yet. In front of you there is a road that forks in too, to the left there is a castle that appears abandoned, to the right there is an university.
+to go to the left go to 2, to the right go to 3
 
 2
 
@@ -15,8 +16,6 @@ for stopping go to 10 for continue running go to 4
 A few hundred yards ahead of you is a camp of covered wagons and carts, arranged in a circle. A fire burns in the centre, and you can see bodies moving around the camp. You walk towards the caravan. Your approach is noticed and an arrow flies through the air, landing to your left. Another lands to your right.
 Will you hold your hands in the air to show them you mean no harm (turn to 259) or retrace your steps and take a wide detour round the camp (turn to 61)?
 
-
-
 392
 
 You hold your arms up in the air and walk slowly forward. To your relief, no more arrows are released, although you can see bowmen, with shafts at the ready, covering your approach. A crowd is gathering to see who you are and you are soon close enough to make out what sort of people are watching you. You have come across a caravan of Black Elves, presumably traders of some kind. As you enter the camp, they eye you suspiciously. An old Elf, slightly stouter than the rest, steps forward. If you seek shelter or food, he starts, 'then you waste your time with this caravan. What purpose have you wandering alone through the Baklands?' What will your reply be?
@@ -27,3 +26,8 @@ Turn to 315
 Turn to 37
 Turn to 215
 and shelter and that you will pay handsomely for their hospitality?
+
+67
+Your choice will give you an advantage in fighting the Serpent. Draw your weapon and fight: WATER SERPENT
+If you win, turn to 75.
+
