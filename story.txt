@@ -1,1 +1,6 @@
 WRITTEN BY: Alex L. AlexMalos AntonioHus CostinJ RobertL PaulH
+
+go to 67
+
+Your choice will give you an advantage in fighting the Serpent. Draw your weapon and fight: WATER SERPENT
+If you win, turn to 75.
