@@ -7,5 +7,15 @@ GO TO 3
 While you're wondering down the road, it started raining. You feel heavier each step you take as the rain pours into your clothes and start to wonder why you took on this road. You start running as fast as you can until you see a bus stop with a light, but as you get closer and closer you start to feel something in your gut. You see someone in the station, do you stop in the station to shield from the rain or do you continue running?
 for stopping go to 10 for continue running go to 4
 2
-
 The horseman gallop off to the north-east. A short white later, the leader stops and points out a group of carts and covered wagons, arragned in a circle, in the distance. We will take you to within walking distance of the caravan, he says, but no further. For they are armed and wary of strangers. At a trotting pace they take you within a few hundred yards of the camp. You dismount and they leave. You may now approach the caravan. Go to 137
+
+392
+
+You hold your arms up in the air and walk slowly forward. To your relief, no more arrows are released, although you can see bowmen, with shafts at the ready, covering your approach. A crowd is gathering to see who you are and you are soon close enough to make out what sort of people are watching you. You have come across a caravan of Black Elves, presumably traders of some kind. As you enter the camp, they eye you suspiciously. An old Elf, slightly stouter than the rest, steps forward. If you seek shelter or food, he starts, 'then you waste your time with this caravan. What purpose have you wandering alone through the Baklands?' What will your reply be?
+Will you claim to be a trader and ask to see their wares?
+Will you tell him of your mission and ask about the Seven Serpents?
+Will you tell him you are after food
+Turn to 315
+Turn to 37
+Turn to 215
+and shelter and that you will pay handsomely for their hospitality?
