@@ -2,3 +2,6 @@ WRITTEN BY: Alex L. AlexMalos AntonioHus CostinJ RobertL PaulH
 
 The dark storm clouds roll across the sky as you start your journey across the Baklands. This stage of your trip will be the most testing yet. In front of you there is a road that forks in too, to the left there is a castle that appears abandoned, to the right there is an university.
 for left go to 2 for right go to 3
+
+A few hundred yards ahead of you is a camp of covered wagons and carts, arranged in a circle. A fire burns in the centre, and you can see bodies moving around the camp. You walk towards the caravan. Your approach is noticed and an arrow flies through the air, landing to your left. Another lands to your right.
+Will you hold your hands in the air to show them you mean no harm (turn to 259) or retrace your steps and take a wide detour round the camp (turn to 61)?
