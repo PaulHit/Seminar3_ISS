@@ -6,5 +6,6 @@ for left go to 2 for right go to 3
 GO TO 3
 While you're wondering down the road, it started raining. You feel heavier each step you take as the rain pours into your clothes and start to wonder why you took on this road. You start running as fast as you can until you see a bus stop with a light, but as you get closer and closer you start to feel something in your gut. You see someone in the station, do you stop in the station to shield from the rain or do you continue running?
 for stopping go to 10 for continue running go to 4
+2
 
 The horseman gallop off to the north-east. A short white later, the leader stops and points out a group of carts and covered wagons, arragned in a circle, in the distance. We will take you to within walking distance of the caravan, he says, but no further. For they are armed and wary of strangers. At a trotting pace they take you within a few hundred yards of the camp. You dismount and they leave. You may now approach the caravan. Go to 137
