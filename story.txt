@@ -22,6 +22,5 @@ Turn to 215
 and shelter and that you will pay handsomely for their hospitality?
 
 67
->>>>>>> Stashed changes
 Your choice will give you an advantage in fighting the Serpent. Draw your weapon and fight: WATER SERPENT
 If you win, turn to 75.
