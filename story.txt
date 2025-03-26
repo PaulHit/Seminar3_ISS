@@ -11,6 +11,9 @@ GO TO 3
 While you're wondering down the road, it started raining. You feel heavier each step you take as the rain pours into your clothes and start to wonder why you took on this road. You start running as fast as you can until you see a tree with a lantern near it, but as you get closer and closer you start to feel something in your gut. You see someone under the tree, do you stop under the tree to shield from the rain or do you continue running?
 for stopping go to 10 for continue running go to 4
 
+go to 4
+You never stop running, as you get tired, you trip on a rock and smash your head to a boulder. You instantly die, leaving no room for regrets.
+
 137
 
 A few hundred yards ahead of you is a camp of covered wagons and carts, arranged in a circle. A fire burns in the centre, and you can see bodies moving around the camp. You walk towards the caravan. Your approach is noticed and an arrow flies through the air, landing to your left. Another lands to your right.
@@ -31,11 +34,13 @@ and shelter and that you will pay handsomely for their hospitality?
 Your choice will give you an advantage in fighting the Serpent. Draw your weapon and fight: WATER SERPENT
 If you win, turn to 75.
 
+You win and live to see another day ☺.
+
 315
-TBD(dead)
+They don't trust you and kill you
 
 215
-TBD(dead)
+They give you food. After you go to sleep you never wake up again, you were poisoned ♥.
 
 
 
