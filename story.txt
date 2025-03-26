@@ -14,7 +14,7 @@ for stopping go to 10 for continue running go to 4
 137
 
 A few hundred yards ahead of you is a camp of covered wagons and carts, arranged in a circle. A fire burns in the centre, and you can see bodies moving around the camp. You walk towards the caravan. Your approach is noticed and an arrow flies through the air, landing to your left. Another lands to your right.
-Will you hold your hands in the air to show them you mean no harm (turn to 259) or retrace your steps and take a wide detour round the camp (turn to 61)?
+Will you hold your hands in the air to show them you mean no harm (turn to 392) or retrace your steps and take a wide detour round the camp (turn to 3)
 
 392
 
@@ -23,11 +23,19 @@ Will you claim to be a trader and ask to see their wares?
 Will you tell him of your mission and ask about the Seven Serpents?
 Will you tell him you are after food
 Turn to 315
-Turn to 37
+Turn to 67
 Turn to 215
 and shelter and that you will pay handsomely for their hospitality?
 
 67
 Your choice will give you an advantage in fighting the Serpent. Draw your weapon and fight: WATER SERPENT
 If you win, turn to 75.
+
+315
+TBD(dead)
+
+215
+TBD(dead)
+
+
 
